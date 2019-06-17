@@ -16,14 +16,17 @@ The first tag we will be learning is the main heading tag. Tags are a bit like a
 
 
 
-The<p> tag is used to tell the browser we want a paragraph. These work just like the main and secondary headings. You must have an opening, the filling, and then the closing. 
+<p> tag is used to tell the browser we want a paragraph. These work just like the main and secondary headings. You must have an opening, the filling, and then the closing. 
 
 he title attribute is used so that when the mouse is hovered over the link this is what is seen. So we have the href attribute, which is necessary for a link because its telling us where the link is going. The title attribute displays the text when the mouse is hovered over the link:
 
 We can add a new file by selecting File>New File, and call this new file "Newpage.html."
 
 The tag that we use for images is called the "img" tag. 
- example:   	<img src="background.png"></img>
+ example:   	
+ 
+ 
+ <img src="background.png"></img>
  
  
 
