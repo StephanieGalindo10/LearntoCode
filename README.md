@@ -28,5 +28,19 @@ The tag that we use for images is called the "img" tag.
  
  <img src="background.png"></img>
  
- 
+
+
+
+
+
+Notes 
+
+You begin by typing in DOCTYPE html and this tells the browser this is our website and this is an HTML document. 
+
+
+Whenever you look at a web site on the internet what's shown on the actual browser content is called the body of the page, but there's more to a page than just the body. 
+
+ web site you visit is added in an area called the page head.
+ The meta tags do not need to be self-closed, this is part of the HTML standard.
+
 
