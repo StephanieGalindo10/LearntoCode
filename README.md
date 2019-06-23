@@ -43,4 +43,4 @@ Whenever you look at a web site on the internet what's shown on the actual brows
  web site you visit is added in an area called the page head.
  The meta tags do not need to be self-closed, this is part of the HTML standard.
 
-
+CSS is not used for content, it's used to style content, to make content look pretty. One way to include CSS on a page is by using style tag. HTML only cares about the context.
