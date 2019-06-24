@@ -44,3 +44,9 @@ Whenever you look at a web site on the internet what's shown on the actual brows
  The meta tags do not need to be self-closed, this is part of the HTML standard.
 
 CSS is not used for content, it's used to style content, to make content look pretty. One way to include CSS on a page is by using style tag. HTML only cares about the context.
+
+For that we need to add the attribute ID, equal sign, double quotes, and in here we enter the unique ID of that particular element. An ID is a unique identifier. It cannot contain spaces
+
+ ID instead, but we need to type in the hash sign, and then the name of the ID, and that will allow us to select a single element by ID.
+
+ Typography is used to change fonts. 

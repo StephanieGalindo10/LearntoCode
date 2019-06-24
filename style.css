@@ -1,0 +1,39 @@
+h1 {
+    color: red;
+    background-color: rgb(36, 184, 97);
+}
+#mainPar{
+color:rgb(0, 197, 247);
+}
+
+.veggie{
+    color: darkgreen;
+}
+
+.meat{
+    color: rgb(100, 65, 0);
+}
+
+#box{
+    background-color:yellow;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px auto 10px auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+
+
+
+
+}
+#box2{
+    background-color: rgb(3, 3, 146);
+    margin-left:10px;
+    padding:0px 10px 30px 40px;
+
+    
+
+}
