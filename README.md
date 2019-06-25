@@ -31,8 +31,6 @@ The tag that we use for images is called the "img" tag.
 
 
 
-
-
 Notes 
 
 You begin by typing in DOCTYPE html and this tells the browser this is our website and this is an HTML document. 
