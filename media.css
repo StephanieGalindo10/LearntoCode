@@ -6,7 +6,13 @@ body{
     padding:0px;
     margin:0px;
 }
+.center-container{
+  max-width: 1020px;
+  margin:0px auto;
+  padding: 0px 16px;
+  
 
+}
 .nav{
     background-color: cadetblue;
     color:white;
@@ -28,4 +34,67 @@ body{
  
 .nav ul li:hover {
   background-color: black;
+}
+.image-area{
+    background-image: url("background.png");
+    background-position: center center;
+    background-color: white;
+background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.image-text {
+text-align: center;
+background-color: black;
+color:white;
+font-size:2.5rem;
+
+}
+
+.intro-text {
+
+  margin:0px auto;
+  color: grey;
+  font-size: 1.5rem;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15PX;
+
+}
+
+.single-service{
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.single-service p{
+  padding: 0px 16px;
+}
+
+@media screen and (min-width: 700px) {
+  .nav ul {
+    text-align: right;
+  }
+ 
+  .nav ul li {
+    display: inline-block;
+    border-bottom: 0px;
+    border-left: 1px solid black;
+    text-align: left;
+  }
+ 
+  .single-service {
+    width: 50%;
+    float: left;
+  }
+}
+
+img {
+  border-radius: 15px;
+  width: 90%;
+  height: 400px;
+  padding:5px;
+      border:8px solid #999999;
+      background-color: #e6e6e6;
 }
