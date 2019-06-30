@@ -48,3 +48,6 @@ For that we need to add the attribute ID, equal sign, double quotes, and in here
  ID instead, but we need to type in the hash sign, and then the name of the ID, and that will allow us to select a single element by ID.
 
  Typography is used to change fonts. 
+
+ Styling the Landing Page
+ Web browsers have some defaults that they assume that you want, but in the hypothetical case that the web browser doesn't have those same defaults, you will want to be more specific. For example, web browsers give you a white background by default and they give you black font by default. 
